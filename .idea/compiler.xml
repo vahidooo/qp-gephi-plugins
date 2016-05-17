@@ -26,5 +26,8 @@
         <module name="qp-layout-plugins" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qp-layout-plugins" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
